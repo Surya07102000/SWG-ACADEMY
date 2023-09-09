@@ -21,3 +21,7 @@ Discover our mission to empower lifelong learning. Explore our wide range of cou
 
 ## Courses Page
 The Courses page on our E-learning website offers a diverse range of educational programs. Explore our extensive library of courses spanning various subjects and skill levels. Enroll today to embark on your learning journey.
+![](https://github.com/Surya07102000/SWG-ACADEMY/blob/main/images/Screenshot%20(357).png)
+
+## Contact Page
+The Contact page on our E-learning website offers a user-friendly interface for getting in touch.
