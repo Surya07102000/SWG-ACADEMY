@@ -14,3 +14,6 @@ Experience interactive online learning with our user-friendly HTML, CSS, and JS-
   Discover a world of knowledge at your fingertips. Our user-friendly website offers a wide range of courses, interactive lessons, and expert instructors. Whether you're a beginner or an expert, enhance your skills and expand your horizons with our e-learning courses. Start your journey today!
 ![](https://github.com/Surya07102000/SWG-ACADEMY/blob/main/images/Screenshot%202023-09-09%20142833.png)
 ![](https://github.com/Surya07102000/SWG-ACADEMY/blob/main/images/Screenshot%20(354).png)
+
+## About Page
+Discover our mission to empower lifelong learning. Explore our wide range of courses, expert instructors, and interactive content. Join our community and embark on a journey of knowledge and growth. Your success starts here.
